@@ -20,6 +20,10 @@ export default {
 
   target: "static",
 
+  router: {
+    base: "/deez-minimal/"
+  },
+
   ssr: true,
 
   // Global CSS: https://go.nuxtjs.dev/config-css
